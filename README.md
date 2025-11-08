@@ -14,3 +14,9 @@ Inteligencia Artificial y Machine Learning
 Ciencia de datos y visualización
 Educación y herramientas abiertas
 💬 Si deseas contactarme o colaborar, puedes hacerlo a través de mis redes o mediante GitHub.
+
+
+## mi diario de aprendizaje 
+
+variable abaco computaodr 
+
